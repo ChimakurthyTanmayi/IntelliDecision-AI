@@ -1,0 +1,6 @@
+{
+  "name": "IntelliDecision AI",
+  "description": "AI-powered Decision Intelligence Platform using Gemini to analyze choices, identify hidden factors, evaluate trade-offs, and generate decision reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
